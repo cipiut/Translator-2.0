@@ -1,0 +1,1 @@
+ruleaza in terminal: chmod +x translator.sh
